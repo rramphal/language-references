@@ -296,7 +296,7 @@ Standard Devanāgarī | Variant Devanāgarī | Standard Transliteration |       
 ### IAST except for ṁ
 
 * *Bhagavad Gita: It's Feeling and Philosophy* by Swami B. V. **Tripurari** (1-886069-53-0)
-* *The Principal Upaniṣads* by S. **Radhakrishnan**
+* *The Principal Upaniṣads* by S. **Radhakrishnan** (91-7223-124-5)
 
 Standard Devanāgarī | Variant Devanāgarī | Standard Transliteration | Variant Transliteration
 :-----------------: | :----------------: | :----------------------: | :---------------------:
@@ -321,7 +321,7 @@ Standard Devanāgarī |                   Variant Devanāgarī                  
 
 ### William Dwight Whitney
 
-* *Sanskrit Grammar* by William Dwight Whitney
+* *Sanskrit Grammar* by William Dwight Whitney (978-0-486-43136-9)
 
 Standard Devanāgarī |                       Variant Devanāgarī                      | Standard Transliteration | Variant Transliteration
 :-----------------: | :-----------------------------------------------------------: | :----------------------: | :---------------------:
