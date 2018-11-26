@@ -1,277 +1,277 @@
-# Transliteration of Devanāgarī
+# Transliteration of Devanāgarī
 
 ## Transliteration Systems
 
 ### Simple Vowels (mūlasvarāḥ)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-अ | *U+0905* | a | a | a | a | a |
-आ | *U+0906* | ā | aa / A | ā | A | A |
-इ | *U+0907* | i | i | i | i | i |
-ई | *U+0908* | ī | ii / I / ee | ī | I | I |
-उ | *U+0909* | u | u | u | u | u |
-ऊ | *U+090A* | ū | uu / U / oo | ū | U | U |
+Devanāgarī |   Code   |   IAST   |    ITRANS   | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :------: | :---------: | :-------: | :-----------: | :--: | :----
+ &#x0905;  | *U+0905* |     a    |      a      |     a     |       a       |   a  |
+ &#x0906;  | *U+0906* | &#x0101; |    aa / A   |  &#x0101; |       A       |   A  |
+ &#x0907;  | *U+0907* |     i    |      i      |     i     |       i       |   i  |
+ &#x0908;  | *U+0908* | &#x012B; | ii / I / ee |  &#x012B; |       I       |   I  |
+ &#x0909;  | *U+0909* |     u    |      u      |     u     |       u       |   u  |
+ &#x090A;  | *U+090A* | &#x016B; | uu / U / oo |  &#x016B; |       U       |   U  |
 
 ### Liquid Vowels (mūlasvarāḥ)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-ऋ | *U+090B* | ṛ | RRi / R^i | r̥ | R | f |
-ॠ | *U+0960* | ṝ | RRI / R^I | | RR | F |
-ऌ | *U+090C* | ḷ | LLi / L^i | l̥ | lR | x |
-ॡ | *U+0961* | ḹ | LLI / L^I | | lRR | X | (supposedly invented for symmetry)
+Devanāgarī |   Code   |   IAST   |   ITRANS  | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :------: | :-------: | :-------: | :-----------: | :--: | :----
+ &#x090B;  | *U+090B* | &#x1E5B; | RRi / R^i | r&#x0325; |       R       |   f  |
+ &#x0960;  | *U+0960* | &#x1E5D; | RRI / R^I |           |       RR      |   F  |
+ &#x090C;  | *U+090C* | &#x1E37; | LLi / L^i | l&#x0325; |       lR      |   x  |
+ &#x0961;  | *U+0961* | &#x1E39; | LLI / L^I |           |      lRR      |   X  | (supposedly invented for symmetry)
 
 ### Diphthongs (saṃyuktasvarāḥ / miśrasvarāḥ)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-ए | *U+090F* | e | e / E | ē | e | e | long ē
-ऐ | *U+0910* | ai | ai | ai | ai | E |
-ओ | *U+0913* | o | o / O | ō | o | o | long ō
-औ | *U+0914* | au | au | au | au | O |
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :-----------: | :--: | :----
+ &#x090F;  | *U+090F* |   e  |  e / E |  &#x0113; |       e       |   e  | long ē
+ &#x0910;  | *U+0910* |  ai  |   ai   |     ai    |       ai      |   E  |
+ &#x0913;  | *U+0913* |   o  |  o / O |  &#x014D; |       o       |   o  | long ō
+ &#x0914;  | *U+0914* |  au  |   au   |     au    |       au      |   O  |
 
 ### अं and अः
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-ं | *U+0902* | ṃ | M / .n / .m | ṁ | M | M | anusvāra
-ः | *U+0903* | ḥ | H | ḥ | H | H | visarga
+Devanāgarī |   Code   |   IAST   |    ITRANS   | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :------: | :---------: | :-------: | :-----------: | :--: | :----
+ &#x0902;  | *U+0902* | &#x1E43; | M / .n / .m |  &#x1E41; |       M       |   M  | anusvāra
+ &#x0903;  | *U+0903* | &#x1E25; |      H      |  &#x1E25; |       H       |   H  | visarga
 
 ### Guttural (sparśavyañjanāḥ: kaṇṭhya)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-क | *U+0915* | ka | ka | ka | ka | ka | ka |
-ख | *U+0916* | kha | kha | kha | kha | Ka |
-ग | *U+0917* | ga | ga | ga | ga | ga |
-घ | *U+0918* | gha | gha | gha | gha | G |
-ङ | *U+0919* | ṅa | ~Na / N^ | ṅa | G | N |
+Devanāgarī |   Code   |    IAST   |  ITRANS  | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :-------: | :------: | :-------: | :-----------: | :--: | :----
+ &#x0915;  | *U+0915* |     ka    |    ka    |     ka    |       ka      |  ka  | ka
+ &#x0916;  | *U+0916* |    kha    |    kha   |    kha    |      kha      |  Ka  |
+ &#x0917;  | *U+0917* |     ga    |    ga    |     ga    |       ga      |  ga  |
+ &#x0918;  | *U+0918* |    gha    |    gha   |    gha    |      gha      |  Ga  |
+ &#x0919;  | *U+0919* | &#x1E45;a | ~Na / N^ | &#x1E45;a |       Ga      |  Na  |
 
 ### Palatal (sparśavyañjanāḥ: tālavya)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-च | *U+091A* | ca | cha / ca | ca | ca | ca |
-छ | *U+091B* | cha | chha / Cha / Ca | cha | cha | Ca |
-ज | *U+091C* | ja | ja | ja | ja | ja |
-झ | *U+091D* | jha | jha | jha | jha | Ja |
-ञ | *U+091E* | ña | ~na / JN | ña | J | Y |
+Devanāgarī |   Code   |    IAST   |      ITRANS     | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :-------: | :-------------: | :-------: | :-----------: | :--: | :----
+ &#x091A;  | *U+091A* |     ca    |     cha / ca    |     ca    |       ca      |  ca  |
+ &#x091B;  | *U+091B* |    cha    | chha / Cha / Ca |    cha    |      cha      |  Ca  |
+ &#x091C;  | *U+091C* |     ja    |        ja       |     ja    |       ja      |  ja  |
+ &#x091D;  | *U+091D* |    jha    |       jha       |    jha    |      jha      |  Ja  |
+ &#x091E;  | *U+091E* | &#x00F1;a |     ~na / JN    | &#x00F1;a |       Ja      |  Ya  |
 
 ### Retroflex/Cerebral (sparśavyañjanāḥ: mūrdhanya)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-ट | *U+091F* | ṭa | Ta | ṭa | Ta | w |
-ठ | *U+0920* | ṭha | Tha | ṭha | Tha | W |
-ड | *U+0921* | ḍa | Da | ḍa | Da | q |
-ढ | *U+0922* | ḍha | Dha | ḍha | Dha | Q |
-ण | *U+0923* | ṇa | Na | ṇa | N | R |
+Devanāgarī |   Code   |    IAST    | ITRANS |  ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :--------: | :----: | :--------: | :-----------: | :--: | :----
+ &#x091F;  | *U+091F* |  &#x1E6D;a |   Ta   |  &#x1E6D;a |       Ta      |  wa  |
+ &#x0920;  | *U+0920* | &#x1E6D;ha |   Tha  | &#x1E6D;ha |      Tha      |  Wa  |
+ &#x0921;  | *U+0921* |  &#x1E0D;a |   Da   |  &#x1E0D;a |       Da      |  qa  |
+ &#x0922;  | *U+0922* | &#x1E0D;ha |   Dha  | &#x1E0D;ha |      Dha      |  Qa  |
+ &#x0923;  | *U+0923* |  &#x1E47;a |   Na   |  &#x1E47;a |       N       |  Ra  |
 
 ### Dental (sparśavyañjanāḥ: dantya)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-त | *U+0924* | ta | ta | ta | ta | ta |
-थ | *U+0925* | tha | tha | tha | tha | Ta
-द | *U+0926* | da | da | da | da | da |
-ध | *U+0927* | dha | dha | dha | dha | Da |
-न | *U+0928* | na | na | na | na | na |
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :-----------: | :--: | :----
+ &#x0924;  | *U+0924* |  ta  |   ta   |     ta    |       ta      |  ta  |
+ &#x0925;  | *U+0925* |  tha |   tha  |    tha    |      tha      |  Ta  |
+ &#x0926;  | *U+0926* |  da  |   da   |     da    |       da      |  da  |
+ &#x0927;  | *U+0927* |  dha |   dha  |    dha    |      dha      |  Da  |
+ &#x0928;  | *U+0928* |  na  |   na   |     na    |       na      |  na  |
 
 ### Labial (sparśavyañjanāḥ: oṣṭhya)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-प | *U+092A* | pa | pa | pa | pa | pa |
-फ | *U+092B* | pha | pha | pha | pha | Pa |
-ब | *U+092C* | ba | ba | ba | ba | ba |
-भ | *U+092D* | bha | bha | bha | bha | Ba |
-म | *U+092E* | ma | ma | ma | ma | ma |
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :-----------: | :--: | :----
+ &#x092A;  | *U+092A* |  pa  |   pa   |     pa    |       pa      |  pa  |
+ &#x092B;  | *U+092B* |  pha |   pha  |    pha    |      pha      |  Pa  |
+ &#x092C;  | *U+092C* |  ba  |   ba   |     ba    |       ba      |  ba  |
+ &#x092D;  | *U+092D* |  bha |   bha  |    bha    |      bha      |  Ba  |
+ &#x092E;  | *U+092E* |  ma  |   ma   |     ma    |       ma      |  ma  |
 
 ### Approximant (antaḥsthāvyañjanāḥ)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-य | *U+092F* | ya | ya | ya | ya | ya |
-र | *U+0930* | ra | ra | ra | ra | ra |
-ल | *U+0932* | la | la | la | la | la |
-व | *U+0935* | va | va / wa | va | va | va |
+Devanāgarī |   Code   | IAST |  ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :--: | :-----: | :-------: | :-----------: | :--: | :----
+ &#x092F;  | *U+092F* |  ya  |    ya   |     ya    |       ya      |  ya  |
+ &#x0930;  | *U+0930* |  ra  |    ra   |     ra    |       ra      |  ra  |
+ &#x0932;  | *U+0932* |  la  |    la   |     la    |       la      |  la  |
+ &#x0935;  | *U+0935* |  va  | va / wa |     va    |       va      |  va  |
 
 ### Fricative (ūṣman vyañjanāḥ)
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
-:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---
-श | *U+0936* | śa | sha | śa | za | Sa |
-ष | *U+0937* | ṣa | shha / Sha / Sa | ṣa | Sa | za |
-स | *U+0938* | sa | sa | sa | sa | sa |
-ह | *U+0939* | ha | ha | ha | ha | ha |
+Devanāgarī |   Code   |    IAST   |      ITRANS     | ISO 15919 | Harvard-Kyoto | SLP1 | Notes
+:--------: | :------: | :-------: | :-------------: | :-------: | :-----------: | :--: | :----
+ &#x0936;  | *U+0936* | &#x015B;a |       sha       | &#x015B;a |       za      |  Sa  |
+ &#x0937;  | *U+0937* | &#x1E63;a | shha / Sha / Sa | &#x1E63;a |       Sa      |  za  |
+ &#x0938;  | *U+0938* |     sa    |        sa       |     sa    |       sa      |  sa  |
+ &#x0939;  | *U+0939* |     ha    |        ha       |     ha    |       ha      |  ha  |
 
-### Chandrabindu
+### Candrabindu
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ँ | *U+0901* | m̐ | .N | m̐ | anunāsika (nasalized vowel)
-ऀ | *U+0900* | | | | inverted candrabindu (vaidika adhomukha candrabindu); used as a Vedic symbol (as found in Leopold von Schröder's 1900 edition of the Kṛṣṇayajurveda Kāṭhaka Saṃhitā) to mark anusvāra before spirants; https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
-ꣳ | *U+A8F3* | | {\m+} / \m+ | | candrabindu virāma; "gum"; https://web.archive.org/web/20100125123310/http://www.advaita-vedanta.org:80/archives/advaita-l/1998-October/010277.html; https://web.archive.org/web/20171215110535/http://vedavms.in/docs/articles/01VMSBasics%20of%20Veda%20Swaras.pdf; http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html; http://list.indology.info/pipermail/indology_list.indology.info/2000-February/020181.html
+Devanāgarī |   Code   |    IAST   |    ITRANS   | ISO 15919 | Notes
+:--------: | :------: | :-------: | :---------: | :-------: | :----
+ &#x0901;  | *U+0901* | m&#x0310; |      .N     | m&#x0310; | anunāsika (nasalized vowel)
+ &#x0900;  | *U+0900* |           |             |           | inverted candrabindu (vaidika adhomukha candrabindu); used as a Vedic symbol (as found in Leopold von Schröder's 1900 edition of the Kṛṣṇayajurveda Kāṭhaka Saṃhitā) to mark anusvāra before spirants <br /> https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
+ &#xA8F3;  | *U+A8F3* |           | {\m+} / \m+ |           | candrabindu virāma; "gum" <br /> https://web.archive.org/web/20100125123310/http://www.advaita-vedanta.org:80/archives/advaita-l/1998-October/010277.html <br /> https://web.archive.org/web/20171215110535/http://vedavms.in/docs/articles/01VMSBasics%20of%20Veda%20Swaras.pdf <br /> http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html <br /> http://list.indology.info/pipermail/indology_list.indology.info/2000-February/020181.html
 
 ### Virāma / Halant
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-् | *U+094D* | ∅ | (.h) | ∅ | virāma / haL-anta
+Devanāgarī |   Code   |   IAST   | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :------: | :----: | :-------: | :----
+ &#x094D;  | *U+094D* | &#x2205; |  (.h)  |  &#x2205; | virāma / haL-anta
 
 ### Avagraha
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ऽ | *U+093D* | ' | .a / ~ | ’ | avagraha
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x093D;  | *U+093D* |   '  | .a / ~ |  &#x2019; | avagraha
 
 ### Daṇḍā
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-। | *U+0964* | । | . | | end of sentence/half-verse (pūrṇa virāma)
-॥ | *U+0965* | ॥ | .. | | dvidaṇḍa
+Devanāgarī |   Code   |   IAST   | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :------: | :----: | :-------: | :----
+ &#x0964;  | *U+0964* | &#x0964; |   .    |           | end of sentence/half-verse (pūrṇa virāma)
+ &#x0965;  | *U+0965* | &#x0965; |   ..   |           | dvidaṇḍā
 
 ### Vedic
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ळ | *U+0933* | | La | ḷa | Marathi, Rajasthani, Konkani; Sanskrit: ḻ is an alternate version of ḍ, and it is used only when ḍ appears between two vowels; http://learnsanskrit.org/ends/sounds/l
-ळ्ह | *U+0933 U+094D U+0939* | | Lha | | Sanskrit: ḻh is an alternate version of ḍh, and it is used only when ḍh appears between two vowels; http://learnsanskrit.org/ends/sounds/l
-ॺ | *U+097A* | | | | heavy ya; y̌(?); Vedic Sanskrit: कुर्ॺात् (kury̌āt) 'one would do'; https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
-ᳵ | *U+1CF5* | | | ẖ | jihvāmūlīya: the result of external sandhi between a visarga and an unvoiced velar (क ka, ख kha) in Vedic Sanskrit; https://en.wiktionary.org/wiki/%E1%B3%B5
-ᳶ | *U+1CF6* | | | ḫ | upadhmānīya; the result of external sandhi between a visarga and an unvoiced bilabial (प pa, फ pha) in Vedic Sanskrit; https://en.wiktionary.org/wiki/%E1%B3%B6
-अ॑ | *U+0951* | | \\' | | hrasva svarita (Vedic pitch accent); http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html
-अ॒ | *U+0952* | | \\_ *or* \\` | | sannatara / anudātta (Vedic pitch accent); http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html
-अ᳚ | *U+1CDA* | | \\'' *or* \\" | | dīrgha svarita (Vedic pitch accent)
+   Devanāgarī               |          Code          | IAST |     ITRANS    | ISO 15919 | Notes
+:-------------------------: | :--------------------: | :--: | :-----------: | :-------: | :----
+   &#x0933;                 |        *U+0933*        |      |       La      | &#x1E37;a | Marathi, Rajasthani, Konkani; Sanskrit: ḻ is an alternate version of ḍ, and it is used only when ḍ appears between two vowels <br /> http://learnsanskrit.org/ends/sounds/l
+   &#x0933;&#x094D;&#x0939; | *U+0933 U+094D U+0939* |      |      Lha      |           | Sanskrit: ḻh is an alternate version of ḍh, and it is used only when ḍh appears between two vowels <br /> http://learnsanskrit.org/ends/sounds/l
+   &#x097A;                 |        *U+097A*        |      |               |           | heavy ya; y̌(?); Vedic Sanskrit: कुर्ॺात् (kury̌āt) 'one would do' <br/> https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
+   &#x1CF5;                 |        *U+1CF5*        |      |               |  &#x1E96; | jihvāmūlīya: the result of external sandhi between a visarga and an unvoiced velar (क ka, ख kha) in Vedic Sanskrit https://en.wiktionary.org/wiki/%E1%B3%B5
+   &#x1CF6;                 |        *U+1CF6*        |      |               |  &#x1E2B; | upadhmānīya; the result of external sandhi between a visarga and an unvoiced bilabial (प pa, फ pha) in Vedic Sanskrit https://en.wiktionary.org/wiki/%E1%B3%B6
+   &#x0905;&#x0951;         |        *U+0951*        |      |      \\'      |           | hrasva svarita (Vedic pitch accent) <br /> http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html
+   &#x0905;&#x0952;         |        *U+0952*        |      |  \\_ *or* \\` |           | sannatara / anudātta (Vedic pitch accent) <br /> http://list.indology.info/pipermail/indology_list.indology.info/2000-January/114534.html
+   &#x0905;&#x1CDA;         |        *U+1CDA*        |      | \\'' *or* \\" |           | dīrgha svarita (Vedic pitch accent)
 
 ### OM
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॐ | *U+0950* | oṃ | OM / AUM | | praṇava, oṃkāra
+Devanāgarī |   Code   |    IAST   |  ITRANS  | ISO 15919 | Notes
+:--------: | :------: | :-------: | :------: | :-------: | :----
+ &#x0950;  | *U+0950* | o&#x1E43; | OM / AUM |           | praṇava, oṃkāra
 
 ### Digits
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-० | *U+0966* | 0 | 0 | |
-१ | *U+0967* | 1 | 1 | |
-२ | *U+0968* | 2 | 2 | |
-३ | *U+0969* | 3 | 3 | |
-४ | *U+096A* | 4 | 4 | |
-५ | *U+096B* | 5 | 5 | |
-६ | *U+096C* | 6 | 6 | |
-७ | *U+096D* | 7 | 7 | |
-८ | *U+096E* | 8 | 8 | |
-९ | *U+096F* | 9 | 9 | |
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x0966;  | *U+0966* |  0   |   0    |           |
+ &#x0967;  | *U+0967* |  1   |   1    |           |
+ &#x0968;  | *U+0968* |  2   |   2    |           |
+ &#x0969;  | *U+0969* |  3   |   3    |           |
+ &#x096A;  | *U+096A* |  4   |   4    |           |
+ &#x096B;  | *U+096B* |  5   |   5    |           |
+ &#x096C;  | *U+096C* |  6   |   6    |           |
+ &#x096D;  | *U+096D* |  7   |   7    |           |
+ &#x096E;  | *U+096E* |  8   |   8    |           |
+ &#x096F;  | *U+096F* |  9   |   9    |           |
 
 ### Dotted / Nuktā Characters
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-़ | *U+093C* | | | | nuqtā
-ऴ | *U+0934* | | | ḻa | Malayalam llla (ഴ)
-क़ | *U+0958* | | | qa | Urdu qaf / Sindhi qa (ق)
-ख़ | *U+0959* | | | xa | Urdu xe / Sindhi khha (خ)
-ग़ | *U+095A* | | | ġa | Urdu gain / Sindhi ghha (غ)
-ज़ | *U+095B* | | | za | Urdu zal / Sindhi za (ذ); Urdu zo'e / Sindhi za (ظ); Urdu zwad / Sindhi za (ض); Urdu ze / Sindhi za (ز)
-ड़ | *U+095C* | | | ṛa | Urdu (ڑ); Urdu/Sindhi (ڙ)
-ढ़ | *U+095D* | | | ṛha | Urdu (ڑھ‬)
-ऩ | *U+0929* | | | ṉa | Malayalam nnna (ഩ)
-फ़ | *U+095E* | | | fa | Urdu fe / Sindhi fa (ف)
-य़ | *U+095F* | | | ẏa | yya
-ऱ | *U+0931* | | Ra | ṟa | rra; http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=d6dvcx2lay
-झ़ | *U+091D U+093C* | | | | Urdu zhe (ژ)
+   Devanāgarī    |       Code      | IAST | ITRANS |  ISO 15919 | Notes
+:--------------: | :-------------: | :--: | :----: | :--------: | :----
+   &#x093C;      |     *U+093C*    |      |        |            | nuqtā
+   &#x0934;      |     *U+0934*    |      |        |  &#x1E3B;a | Malayalam llla (&#x0D34;)
+   &#x0958;      |     *U+0958*    |      |        |     qa     | Urdu qaf / Sindhi qa (&#x0642;)
+   &#x0959;      |     *U+0959*    |      |        |     xa     | Urdu xe / Sindhi khha (&#x062E;)
+   &#x095A;      |     *U+095A*    |      |        |  &#x0121;a | Urdu gain / Sindhi ghha (&#x063A;)
+   &#x095B;      |     *U+095B*    |      |        |     za     | Urdu zal / Sindhi za (&#x0630;); Urdu zo'e / Sindhi za (&#x0638;); Urdu zwad / Sindhi za (&#x0636;); Urdu ze / Sindhi za (&#x0632;)
+   &#x095C;      |     *U+095C*    |      |        |  &#x1E5B;a | Urdu (&#x0691;); Urdu/Sindhi (&#x0699;)
+   &#x095D;      |     *U+095D*    |      |        | &#x1E5B;ha | Urdu (&#x0691;&#x06BE;&#x202C;)
+   &#x0929;      |     *U+0929*    |      |        |  &#x1E49;a | Malayalam nnna (&#x0D29;)
+   &#x095E;      |     *U+095E*    |      |        |     fa     | Urdu fe / Sindhi fa (&#x0641;)
+   &#x095F;      |     *U+095F*    |      |        |  &#x1E8F;a | yya
+   &#x0931;      |     *U+0931*    |      |   Ra   |  &#x1E5F;a | rra <br /> http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=d6dvcx2lay
+&#x091D;&#x093C; | *U+091D U+093C* |      |        |            | Urdu zhe (&#x0698;)
 
 ### Avestan
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॹ | *U+0979* | | | | Avestan zhe; https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x0979;  | *U+0979* |      |        |           | Avestan zhe (&#x10B32;) <br /> https://www.unicode.org/L2/L2007/07343-n3366-vedic.pdf
 
 ### Sindhi/Saraiki Implosives
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॻ | *U+097B* | | | | Sindhi gga (ڳ)
-ॼ | *U+097C* | | | | Sindhi jja (ڄ)
-ॾ | *U+097E* | | | | Sindhi ddda (ڏ)
-ॿ | *U+097F* | | | | Sindhi bba (ٻ)
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x097B;  | *U+097B* |      |        |           | Sindhi gga  (&#x06B3;)
+ &#x097C;  | *U+097C* |      |        |           | Sindhi jja  (&#x0684;)
+ &#x097E;  | *U+097E* |      |        |           | Sindhi ddda (&#x068F;)
+ &#x097F;  | *U+097F* |      |        |           | Sindhi bba  (&#x067B;)
 
 ### Chandra Characters
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॅ | *U+0945* | ॅ | .c | |
-ॲ | *U+0972* | | | |
-ऍ | *U+090D* | | | ê |
-ऑ | *U+0911* | | | ô |
+Devanāgarī |   Code   |   IAST   | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :------: | :----: | :-------: | :----
+ &#x0945;  | *U+0945* | &#x0945; |   .c   |           |
+ &#x0972;  | *U+0972* |          |        |           |
+ &#x090D;  | *U+090D* |          |        |  &#x00EA; |
+ &#x0911;  | *U+0911* |          |        |  &#x00F4; |
 
 ### Short Vowels
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॆ | *U+0946* | | | |
-ऄ | *U+0904* | | | | short a
-ऎ | *U+090E* | | | e | short e
-ऒ | *U+0912* | | | o | short o
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 |  Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x0946;  | *U+0946* |      |        |           |
+ &#x0904;  | *U+0904* |      |        |           | short a
+ &#x090E;  | *U+090E* |      |        |     e     | short e
+ &#x0912;  | *U+0912* |      |        |     o     | short o
 
 ### Kashmiri
 
 https://unicode.org/L2/L2009/09369-n3710.pdf
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-ॶ | *U+0976* | | | | Kashmiri eu; ü; Perso-Arabic (إ);
-ॷ | *U+0977* | | | | Kashmiri uue; ǖ; Perso-Arabic (ٳ);
-ॳ | *U+0973* | | | | Kashmiri oe; ö; Perso-Arabic (أ);
-ॴ | *U+0974* | | | | Kashmiri ooe; ȫ Perso-Arabic (ٲ);
-ॵ | *U+0975* | | | | Kashmiri aw;
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x0976;  | *U+0976* |      |        |           | Kashmiri eu; ü; Perso-Arabic (&#x0625;);
+ &#x0977;  | *U+0977* |      |        |           | Kashmiri uue; ǖ; Perso-Arabic (&#x0673;);
+ &#x0973;  | *U+0973* |      |        |           | Kashmiri oe; ö; Perso-Arabic (&#x0623;);
+ &#x0974;  | *U+0974* |      |        |           | Kashmiri ooe; ȫ; Perso-Arabic (&#x0672;);
+ &#x0975;  | *U+0975* |      |        |           | Kashmiri aw;
 
 ### Symbols
 
-Devanagari | Code | IAST | ITRANS | ISO 15919 | Notes
-:---:|:---:|:---:|:---:|:---:|:---
-॰ | *U+0970* | | | | abbreviation marker
+Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
+:--------: | :------: | :--: | :----: | :-------: | :----
+ &#x0970;  | *U+0970* |      |        |           | abbreviation marker
 
 ## Variants
 
-### Standard Devanagari (Southern Style)
+### Standard Devanāgarī (Southern Style)
 
 <div style="font-family: Siddhanta;">
-अ आ इ ई उ ऊ<br />
-ऋ ॠ ऌ ॡ<br />
-ए ऐ ओ औ<br />
-अं अः<br />
-<br />
-क ख ग घ ङ<br />
-च छ ज झ ञ<br />
-ट ठ ड ढ ण<br />
-त थ द ध न<br />
-प फ ब भ म<br />
-<br />
-य र ल व<br />
-स ष स ह<br />
+  &#x0905;         &#x0906;         &#x0907; &#x0908; &#x0909; &#x090A; <br />
+  &#x090B;         &#x0960;         &#x090C; &#x0961;                   <br />
+  &#x090F;         &#x0910;         &#x0913; &#x0914;                   <br />
+  &#x0905;&#x0902; &#x0905;&#x0903;                                     <br />
+                                                                        <br />
+  &#x0915; &#x0916; &#x0917; &#x0918; &#x0919;                          <br />
+  &#x091A; &#x091B; &#x091C; &#x091D; &#x091E;                          <br />
+  &#x091F; &#x0920; &#x0921; &#x0922; &#x0923;                          <br />
+  &#x0924; &#x0925; &#x0926; &#x0927; &#x0928;                          <br />
+  &#x092A; &#x092B; &#x092C; &#x092D; &#x092E;                          <br />
+                                                                        <br />
+  &#x092F; &#x0930; &#x0932; &#x0935;                                   <br />
+  &#x0938; &#x0937; &#x0938; &#x0939;                                   <br />
 </div>
 
 ### Standard Transliteration (IAST)
 
 <div style="font-family: GentiumAlt;">
-a ā i ī u ū<br />
-ṛ ṝ ḷ ḹ<br />
-e ai o au<br />
-aṃ aḥ<br />
-<br />
-ka kha ga gha ṅa<br />
-ca cha ja jha ña<br />
-ṭa ṭha ḍa ḍha ṇa<br />
-ta tha da dha na<br />
-pa pha ba bha ma<br />
-<br />
-ya ra la va<br />
-sa ṣa sa ha<br />
+  a         &#x0101;  i        &#x012B; u &#x016B;    <br />
+  &#x1E5B;  &#x1E5D;  &#x1E37; &#x1E39;               <br />
+  e         ai        o        au                     <br />
+  a&#x1E43; a&#x1E25;                                 <br />
+                                                      <br />
+  ka        kha        ga        gha        &#x1E45;a <br />
+  ca        cha        ja        jha        &#x00F1;  <br />
+  &#x1E6D;a &#x1E6D;ha &#x1E0D;a &#x1E0D;ha &#x1E47;a <br />
+  ta        tha        da        dha        na        <br />
+  pa        pha        ba        bha        ma        <br />
+                                                      <br />
+  ya        ra         la        va                   <br />
+  sa        &#x1E63;a  sa        ha                   <br />
 </div>
 
 ### Itranslator2003
@@ -280,75 +280,79 @@ https://www.oah.in/Sanskrit/itranslator2003.htm
 
 ### M.R. Kale
 
-* *A Higher Sanskrit Grammar For the Use of School and College Students* by M.R. Kale (978-8-208-0178-3)
+* *A Higher Sanskrit Grammar For the Use of School and College Students* by M.R. **Kale** (978-8-208-0178-3)
 
 Shockingly inconsistent.
 
-Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Transliteration
-:---:|:---:|:---:|:---:
-आ | | ā | â / à / a′
-ई | | ī | î
-ऊ | | ū | û / ú / ù
-ॠ | | ṝ | ṛ´
-श | | śa | s´a / s′a / s`a
-ष | | ṣa | sha
+Standard Devanāgarī | Variant Devanāgarī | Standard Transliteration |        Variant Transliteration
+:-----------------: | :----------------: | :----------------------: | :----------------------------------:
+   &#x0906;         |                    |         &#x0101;         |    &#x00E2; / &#x00E0; / a&#x2032;
+   &#x0908;         |                    |         &#x012B;         |               &#x00EE;
+   &#x090A;         |                    |         &#x016B;         |    &#x00FB; / &#x00FA; / &#x00F9;
+   &#x0960;         |                    |         &#x1E5D;         |           &#x1E5B;&#x00B4;
+   &#x0936;         |                    |         &#x015B;a        | s&#x00B4;a / s&#x2032;a / s&#x0060;a
+   &#x0937;         |                    |         &#x1E63;a        |                  sha
 
 ### IAST except for ṁ
 
 * *Bhagavad Gita: It's Feeling and Philosophy* by Swami B. V. **Tripurari** (1-886069-53-0)
 * *The Principal Upaniṣads* by S. **Radhakrishnan**
 
-Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Transliteration
-:---:|:---:|:---:|:---:
-अं | | aṃ | aṁ
+Standard Devanāgarī | Variant Devanāgarī | Standard Transliteration | Variant Transliteration
+:-----------------: | :----------------: | :----------------------: | :---------------------:
+  &#x0905;&#x0902;  |                    |         a&#x1E43;        |        a&#x1E41;
 
 ### IAST except for n̄
 
-* *The Rāmāyaṇa of Vālmīki* by Robert P. **Goldman** (0-691-01485-X)
+* The Rāmāyaṇa of Vālmīki by Robert P. **Goldman** (0-691-01485-X)
+
+Standard Devanāgarī | Variant Devanāgarī | Standard Transliteration | Variant Transliteration
+:-----------------: | :----------------: | :----------------------: | :---------------------:
+   &#x0919;         |                    |         &#x1E45;a        |        n&#x0304;a
 
 ### Advaita Ashrama
 
-* *Brahma Sūtra Bhāṣya of Śaṅkarācārya* by Swami Gambhirananda (81-7505-105-1)
+* Brahma Sūtra Bhāṣya of Śaṅkarācārya by Swami Gambhirananda (81-7505-105-1)
 
-Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Transliteration
-:---:|:---:|:---:|:---:
-अं | | aṃ | aṁ
-झ | <span style="font-family: Siddhanta;"></span>
+Standard Devanāgarī |                   Variant Devanāgarī                  | Standard Transliteration | Variant Transliteration
+:-----------------: | :---------------------------------------------------: | :----------------------: | :---------------------:
+   &#x0905;&#x0902; |                                                       |         a&#x1E43;        |        a&#x1E41;
+   &#x091D;         | <span style="font-family: Siddhanta;">&#xF107;</span> |                          |
 
 ### William Dwight Whitney
 
 * *Sanskrit Grammar* by William Dwight Whitney
 
-Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Transliteration
-:---:|:---:|:---:|:---:
-अ | <span style="font-family: Siddhanta;"></span>
-आ | <span style="font-family: Siddhanta;"></span>
-ऋ | <span style="font-family: Siddhanta;"></span>
-ॠ | <span style="font-family: Siddhanta;"></span>
-ऐ | | ai | āi
-ओ | <span style="font-family: Siddhanta;"></span>
-औ | <span style="font-family: Siddhanta;"></span> | au | āu
-अं | <span style="font-family: Siddhanta;">ं</span> | aṃ | aṁ / aṅ
-ङ | | ṅa | n̄a
-छ | ? (mainly a font difference) | |
-ज | ? (mainly a font difference) | |
-झ | ? | |
-ण | <span style="font-family: Siddhanta;"></span> | |
-श | | śa | ça
+Standard Devanāgarī |                       Variant Devanāgarī                      | Standard Transliteration | Variant Transliteration
+:-----------------: | :-----------------------------------------------------------: | :----------------------: | :---------------------:
+   &#x0905;         | <span style="font-family: Siddhanta;">&#xF100;</span>         |                          |
+   &#x0906;         | <span style="font-family: Siddhanta;">&#xF32F;</span>         |                          |
+   &#x090B;         | <span style="font-family: Siddhanta;">&#xF103;</span>         |                          |
+   &#x0960;         | <span style="font-family: Siddhanta;">&#xF105;</span>         |                          |
+   &#x0910;         |                                                               |            ai            |        &#x0101;i
+   &#x0913;         | <span style="font-family: Siddhanta;">&#xF332;</span>         |                          |
+   &#x0914;         | <span style="font-family: Siddhanta;">&#xF333;</span>         |            au            |        &#x0101;u
+   &#x0905;&#x0902; | <span style="font-family: Siddhanta;">&#xF100;&#x0902;</span> |         a&#x1E43;        |  a&#x1E41; / a&#x1E45;
+   &#x0919;         |                                                               |         &#x1E45;a        |        n&#x0304;a
+   &#x091B;         |                  ? (mainly a font difference)                 |                          |
+   &#x091C;         |                  ? (mainly a font difference)                 |                          |
+   &#x091D;         |                               ?                               |                          |
+   &#x0923;         | <span style="font-family: Siddhanta;">&#xF10A;</span>         |                          |
+   &#x0936;         |                                                               |         &#x015B;a        |        &#x00E7;a
 
 ### Winthrop Sargeant
 
 * *The Bhagavad Gita* by Winthrop Sargeant (978-1-4384-2842-0)
 
-Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Transliteration
-:---:|:---:|:---:|:---:
-अ | <span style="font-family: Siddhanta;"></span>
-आ | <span style="font-family: Siddhanta;"></span>
-ऐ | | ai | āi
-ओ | <span style="font-family: Siddhanta;"></span>
-औ | <span style="font-family: Siddhanta;"></span> | au | āu
-अं | <span style="font-family: Siddhanta;">ं</span> | aṃ | aṁ
-ङ | | ṅa | n̄a
+Standard Devanāgarī |                       Variant Devanāgarī                      | Standard Transliteration | Variant Transliteration
+:-----------------: | :-----------------------------------------------------------: | :----------------------: | :---------------------:
+   &#x0905;         | <span style="font-family: Siddhanta;">&#xF100;</span>         |                          |
+   &#x0906;         | <span style="font-family: Siddhanta;">&#xF32F;</span>         |                          |
+   &#x0910;         |                                                               |            ai            |        &#x0101;i
+   &#x0913;         | <span style="font-family: Siddhanta;">&#xF332;</span>         |                          |
+   &#x0914;         | <span style="font-family: Siddhanta;">&#xF333;</span>         |            au            |        &#x0101;u
+   &#x0905;&#x0902; | <span style="font-family: Siddhanta;">&#xF100;&#x0902;</span> |         a&#x1E43;        |        a&#x1E41;
+   &#x0919;         |                                                               |         &#x1E45;a        |        n&#x0304;a
 
 ## Diacritics
 
@@ -356,129 +360,129 @@ Standard Devanagari | Variant Devanagari | Standard Transliteration | Variant Tr
 
 https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration
 
-   Character  |   Code   |                         Name                             | Notes
-:------------:|:--------:|:---------------------------------------------------------|:------
-**Ā**         | *U+0100* | Latin capital letter A with macron (above)               | आ
-**ā**         | *U+0101* | Latin small   letter a with macron (above)               | आ
-**Ī**         | *U+012A* | Latin capital letter I with macron (above)               | ई
-**ī**         | *U+012B* | Latin small   letter i with macron (above)               | ई
-**Ū**         | *U+016A* | Latin capital letter U with macron (above)               | ऊ
-**ū**         | *U+016B* | Latin small   letter u with macron (above)               | ऊ
-**Ṛ**         | *U+1E5A* | Latin capital letter R with dot below                    | ऋ
-**ṛ**         | *U+1E5B* | Latin small   letter r with dot below                    | ऋ
-**Ṝ**         | *U+1E5C* | Latin capital letter R with dot below and macron (above) | ॠ
-**ṝ**         | *U+1E5D* | Latin small   letter r with dot below and macron (above) | ॠ
-**Ḷ**         | *U+1E36* | Latin capital letter L with dot below                    | ऌ
-**ḷ**         | *U+1E37* | Latin small   letter l with dot below                    | ऌ
-**Ḹ**         | *U+1E38* | Latin capital letter L with dot below and macron (above) | ॡ
-**ḹ**         | *U+1E39* | Latin small   letter l with dot below and macron (above) | ॡ
-**Ṃ**         | *U+1E42* | Latin capital letter M with dot below                    | अं
-**ṃ**         | *U+1E43* | Latin small   letter m with dot below                    | अं
-**Ḥ**         | *U+1E24* | Latin capital letter H with dot below                    | अः
-**ḥ**         | *U+1E25* | Latin small   letter h with dot below                    | अः
-**Ṅ**         | *U+1E44* | Latin capital letter N with dot above                    | ङ
-**ṅ**         | *U+1E45* | Latin small   letter n with dot above                    | ङ
-**Ñ**         | *U+00D1* | Latin capital letter N with tilde (above)                | ञ
-**ñ**         | *U+00F1* | Latin small   letter n with tilde (above)                | ञ
-**Ś**         | *U+015A* | Latin capital letter S with acute (above)                | श
-**ś**         | *U+015B* | Latin small   letter s with acute (above)                | श
-**Ṭ**         | *U+1E6C* | Latin capital letter T with dot below                    | ट
-**ṭ**         | *U+1E6D* | Latin small   letter t with dot below                    | ट
-**Ḍ**         | *U+1E0C* | Latin capital letter D with dot below                    | ड
-**ḍ**         | *U+1E0D* | Latin small   letter d with dot below                    | ड
-**Ṇ**         | *U+1E46* | Latin capital letter N with dot below                    | ण
-**ṇ**         | *U+1E47* | Latin small   letter n with dot below                    | ण
-**Ṣ**         | *U+1E62* | Latin capital letter S with dot below                    | ष
-**ṣ**         | *U+1E63* | Latin small   letter s with dot below                    | ष
+  Character  |   Code   | Name                                                     | Notes
+:----------: | :------: | :------------------------------------------------------- | :----
+**&#x0100;** | *U+0100* | Latin capital letter A with macron (above)               | &#x0906;
+**&#x0101;** | *U+0101* | Latin small   letter a with macron (above)               | &#x0906;
+**&#x012A;** | *U+012A* | Latin capital letter I with macron (above)               | &#x0908;
+**&#x012B;** | *U+012B* | Latin small   letter i with macron (above)               | &#x0908;
+**&#x016A;** | *U+016A* | Latin capital letter U with macron (above)               | &#x090A;
+**&#x016B;** | *U+016B* | Latin small   letter u with macron (above)               | &#x090A;
+**&#x1E5A;** | *U+1E5A* | Latin capital letter R with dot below                    | &#x090B;
+**&#x1E5B;** | *U+1E5B* | Latin small   letter r with dot below                    | &#x090B;
+**&#x1E5C;** | *U+1E5C* | Latin capital letter R with dot below and macron (above) | &#x0960;
+**&#x1E5D;** | *U+1E5D* | Latin small   letter r with dot below and macron (above) | &#x0960;
+**&#x1E36;** | *U+1E36* | Latin capital letter L with dot below                    | &#x090C;
+**&#x1E37;** | *U+1E37* | Latin small   letter l with dot below                    | &#x090C;
+**&#x1E38;** | *U+1E38* | Latin capital letter L with dot below and macron (above) | &#x0961;
+**&#x1E39;** | *U+1E39* | Latin small   letter l with dot below and macron (above) | &#x0961;
+**&#x1E42;** | *U+1E42* | Latin capital letter M with dot below                    | &#x0905;&#x0902;
+**&#x1E43;** | *U+1E43* | Latin small   letter m with dot below                    | &#x0905;&#x0902;
+**&#x1E24;** | *U+1E24* | Latin capital letter H with dot below                    | &#x0905;&#x0903;
+**&#x1E25;** | *U+1E25* | Latin small   letter h with dot below                    | &#x0905;&#x0903;
+**&#x1E44;** | *U+1E44* | Latin capital letter N with dot above                    | &#x0919;
+**&#x1E45;** | *U+1E45* | Latin small   letter n with dot above                    | &#x0919;
+**&#x00D1;** | *U+00D1* | Latin capital letter N with tilde (above)                | &#x091E;
+**&#x00F1;** | *U+00F1* | Latin small   letter n with tilde (above)                | &#x091E;
+**&#x015A;** | *U+015A* | Latin capital letter S with acute (above)                | &#x0936;
+**&#x015B;** | *U+015B* | Latin small   letter s with acute (above)                | &#x0936;
+**&#x1E6C;** | *U+1E6C* | Latin capital letter T with dot below                    | &#x091F;
+**&#x1E6D;** | *U+1E6D* | Latin small   letter t with dot below                    | &#x091F;
+**&#x1E0C;** | *U+1E0C* | Latin capital letter D with dot below                    | &#x0921;
+**&#x1E0D;** | *U+1E0D* | Latin small   letter d with dot below                    | &#x0921;
+**&#x1E46;** | *U+1E46* | Latin capital letter N with dot below                    | &#x0923;
+**&#x1E47;** | *U+1E47* | Latin small   letter n with dot below                    | &#x0923;
+**&#x1E62;** | *U+1E62* | Latin capital letter S with dot below                    | &#x0937;
+**&#x1E63;** | *U+1E63* | Latin small   letter s with dot below                    | &#x0937;
 
 ### ISO 15919
 
 Based on https://en.wikipedia.org/wiki/ISO_15919
 
-   Character  |   Code   |                         Name                             | Notes
-:------------:|:--------:|:-------------------------------------------------------- |:------
-**Ê**         | *U+00CA* | Latin capital letter E with circumflex                   |
-**ê**         | *U+00EA* | Latin small   letter e with circumflex                   |
-**Ē**         | *U+0112* | Latin capital letter E with macron (above)               |
-**ē**         | *U+0113* | Latin small   letter e with macron (above)               |
-**Ġ**         | *U+0120* | Latin capital letter G with dot above                    | ग़
-**ġ**         | *U+0121* | Latin small   letter g with dot above                    | ग़
-**Ḫ**         | *U+1E2A* | Latin capital letter H with breve below                  |
-**ḫ**         | *U+1E2B* | Latin small   letter h with breve below                  |
-**ẖ**         | *U+1E96* | Latin small   letter h with line below                   |
-**Ḻ**         | *U+1E3A* | Latin capital letter L with line below                   |
-**ḻ**         | *U+1E3B* | Latin small   letter l with line below                   |
-**Ṁ**         | *U+1E40* | Latin capital letter M with dot above                    | अं
-**ṁ**         | *U+1E41* | Latin small   letter m with dot above                    | अं
-**Ṉ**         | *U+1E48* | Latin capital letter N with line below                   |
-**ṉ**         | *U+1E49* | Latin small   letter n with line below                   |
-**Ô**         | *U+00D4* | Latin capital letter O with circumflex                   |
-**ô**         | *U+00F4* | Latin small   letter o with circumflex                   |
-**Ō**         | *U+014C* | Latin capital letter O with macron (above)               |
-**ō**         | *U+014D* | Latin small   letter o with macron (above)               |
-**Ṟ**         | *U+1E5E* | Latin capital letter R with line below                   |
-**ṟ**         | *U+1E5F* | Latin small   letter r with line below                   |
-**Ẏ**         | *U+1E8E* | Latin capital letter Y with dot above                    |
-**ẏ**         | *U+1E8F* | Latin small   letter y with dot above                    |
+  Character  |   Code   | Name                                       | Notes
+:----------: | :------: | :----------------------------------------- | :----
+**&#x00CA;** | *U+00CA* | Latin capital letter E with circumflex     |
+**&#x00EA;** | *U+00EA* | Latin small   letter e with circumflex     |
+**&#x0112;** | *U+0112* | Latin capital letter E with macron (above) |
+**&#x0113;** | *U+0113* | Latin small   letter e with macron (above) |
+**&#x0120;** | *U+0120* | Latin capital letter G with dot above      | &#x095A;
+**&#x0121;** | *U+0121* | Latin small   letter g with dot above      | &#x095A;
+**&#x1E2A;** | *U+1E2A* | Latin capital letter H with breve below    |
+**&#x1E2B;** | *U+1E2B* | Latin small   letter h with breve below    |
+**&#x1E96;** | *U+1E96* | Latin small   letter h with line below     |
+**&#x1E3A;** | *U+1E3A* | Latin capital letter L with line below     |
+**&#x1E3B;** | *U+1E3B* | Latin small   letter l with line below     |
+**&#x1E40;** | *U+1E40* | Latin capital letter M with dot above      | &#x0905;&#x0902;
+**&#x1E41;** | *U+1E41* | Latin small   letter m with dot above      | &#x0905;&#x0902;
+**&#x1E48;** | *U+1E48* | Latin capital letter N with line below     |
+**&#x1E49;** | *U+1E49* | Latin small   letter n with line below     |
+**&#x00D4;** | *U+00D4* | Latin capital letter O with circumflex     |
+**&#x00F4;** | *U+00F4* | Latin small   letter o with circumflex     |
+**&#x014C;** | *U+014C* | Latin capital letter O with macron (above) |
+**&#x014D;** | *U+014D* | Latin small   letter o with macron (above) |
+**&#x1E5E;** | *U+1E5E* | Latin capital letter R with line below     |
+**&#x1E5F;** | *U+1E5F* | Latin small   letter r with line below     |
+**&#x1E8E;** | *U+1E8E* | Latin capital letter Y with dot above      |
+**&#x1E8F;** | *U+1E8F* | Latin small   letter y with dot above      |
 
 ### Other
 
-   Character  |   Code   |                         Name                             | Notes
-:------------:|:--------:|:-------------------------------------------------------- |:------
-**Ă**         | *U+0102* | Latin capital letter A with breve                        |
-**ă**         | *U+0103* | Latin small   letter a with breve                        |
-**À**         | *U+00C0* | Latin capital letter A with grave                        |
-**à**         | *U+00E0* | Latin small   letter a with grave                        |
-**Â**         | *U+00C2* | Latin capital letter A with circumflex                   |
-**â**         | *U+00E2* | Latin small   letter a with circumflex                   |
-**Ç**         | *U+00C7* | Latin capital letter C with cedilla                      |
-**ç**         | *U+00E7* | Latin small   letter c with cedilla                      |
-**Î**         | *U+00CE* | Latin capital letter I with circumflex                   |
-**î**         | *U+00EE* | Latin small   letter i with circumflex                   |
-**Ö**         | *U+00D6* | Latin capital letter O with diaeresis                    |
-**ö**         | *U+00F6* | Latin small   letter o with diaeresis                    |
-**Ȫ**         | *U+022A* | Latin capital letter O with diaeresis and macron         |
-**ȫ**         | *U+022B* | Latin small   letter o with diaeresis and macron         |
-**Ú**         | *U+00DA* | Latin capital letter U with acute                        |
-**ú**         | *U+00FA* | Latin small   letter u with acute                        |
-**Ù**         | *U+00D9* | Latin capital letter U with grave                        |
-**ù**         | *U+00F9* | Latin small   letter u with grave                        |
-**Û**         | *U+00DB* | Latin capital letter U with circumflex                   |
-**û**         | *U+00FB* | Latin small   letter u with circumflex                   |
-**Ü**         | *U+00DC* | Latin capital letter U with diaeresis                    |
-**ü**         | *U+00FC* | Latin small   letter u with diaeresis                    |
-**Ǖ**         | *U+01D5* | Latin capital letter U with diaeresis and macron         |
-**ǖ**         | *U+01D6* | Latin small   letter u with diaeresis and macron         |
+  Character  |   Code   | Name                                             | Notes
+:----------: | :------: | :----------------------------------------------- | :----
+**&#x0102;** | *U+0102* | Latin capital letter A with breve                |
+**&#x0103;** | *U+0103* | Latin small   letter a with breve                |
+**&#x00C0;** | *U+00C0* | Latin capital letter A with grave                |
+**&#x00E0;** | *U+00E0* | Latin small   letter a with grave                |
+**&#x00C2;** | *U+00C2* | Latin capital letter A with circumflex           |
+**&#x00E2;** | *U+00E2* | Latin small   letter a with circumflex           |
+**&#x00C7;** | *U+00C7* | Latin capital letter C with cedilla              |
+**&#x00E7;** | *U+00E7* | Latin small   letter c with cedilla              |
+**&#x00CE;** | *U+00CE* | Latin capital letter I with circumflex           |
+**&#x00EE;** | *U+00EE* | Latin small   letter i with circumflex           |
+**&#x00D6;** | *U+00D6* | Latin capital letter O with diaeresis            |
+**&#x00F6;** | *U+00F6* | Latin small   letter o with diaeresis            |
+**&#x022A;** | *U+022A* | Latin capital letter O with diaeresis and macron |
+**&#x022B;** | *U+022B* | Latin small   letter o with diaeresis and macron |
+**&#x00DA;** | *U+00DA* | Latin capital letter U with acute                |
+**&#x00FA;** | *U+00FA* | Latin small   letter u with acute                |
+**&#x00D9;** | *U+00D9* | Latin capital letter U with grave                |
+**&#x00F9;** | *U+00F9* | Latin small   letter u with grave                |
+**&#x00DB;** | *U+00DB* | Latin capital letter U with circumflex           |
+**&#x00FB;** | *U+00FB* | Latin small   letter u with circumflex           |
+**&#x00DC;** | *U+00DC* | Latin capital letter U with diaeresis            |
+**&#x00FC;** | *U+00FC* | Latin small   letter u with diaeresis            |
+**&#x01D5;** | *U+01D5* | Latin capital letter U with diaeresis and macron |
+**&#x01D6;** | *U+01D6* | Latin small   letter u with diaeresis and macron |
 
 ### Combining Characters
 
   * `<macron above>` (U+0304)
-    * N̄ [N + `<macron above>`]
-    * n̄ [n + `<macron above>`]
+    * N&#x0304; [N + `<macron above>`]
+    * n&#x0304; [n + `<macron above>`]
 
   * `<ring below>` (U+0325)
-    * R̥ [R + `<ring below>`]
-    * r̥ [r + `<ring below>`]
-    * L̥ [L + `<ring below>`]
-    * l̥ [l + `<ring below>`]
-    * M̥ [M + `<ring below>`]
-    * m̥ [m + `<ring below>`]
+    * R&#x0325; [R + `<ring below>`]
+    * r&#x0325; [r + `<ring below>`]
+    * L&#x0325; [L + `<ring below>`]
+    * l&#x0325; [l + `<ring below>`]
+    * M&#x0325; [M + `<ring below>`]
+    * m&#x0325; [m + `<ring below>`]
 
   * `<macron above>` (U+0304) + `<ring below>` (U+0325)
-    * R̥̄ [R + `<macron above>` + `<ring below>`]
-    * r̥̄ [r + `<macron above>` + `<ring below>`]
-    * L̥̄ [L + `<macron above>` + `<ring below>`]
-    * l̥̄ [l + `<macron above>` + `<ring below>`]
+    * R&#x0304;&#x0325; [R + `<macron above>` + `<ring below>`]
+    * r&#x0304;&#x0325; [r + `<macron above>` + `<ring below>`]
+    * L&#x0304;&#x0325; [L + `<macron above>` + `<ring below>`]
+    * l&#x0304;&#x0325; [l + `<macron above>` + `<ring below>`]
 
   * `<ring below>` (U+0325) + `<macron above>` (U+0304)
-    * R̥̄ [R + `<ring below>` + `<macron above>`]
-    * r̥̄ [r + `<ring below>` + `<macron above>`]
-    * L̥̄ [L + `<ring below>` + `<macron above>`]
-    * l̥̄ [l + `<ring below>` + `<macron above>`]
+    * R&#x0325;&#x0304; [R + `<ring below>` + `<macron above>`]
+    * r&#x0325;&#x0304; [r + `<ring below>` + `<macron above>`]
+    * L&#x0325;&#x0304; [L + `<ring below>` + `<macron above>`]
+    * l&#x0325;&#x0304; [l + `<ring below>` + `<macron above>`]
 
   * `<chandrabindu>` (U+0310)
-    * M̐ [M + `<chandrabindu>`]
-    * m̐ [m + `<chandrabindu>`]
+    * M&#x0310; [M + `<chandrabindu>`]
+    * m&#x0310; [m + `<chandrabindu>`]
 
   * `<macron below>` (U+0331)
-    * H̱ [H + `<macron below>`]
+    * H&#x0331; [H + `<macron below>`]
