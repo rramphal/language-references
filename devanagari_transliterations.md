@@ -224,11 +224,11 @@ https://unicode.org/L2/L2009/09369-n3710.pdf
 
 Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
 :--------: | :------: | :--: | :----: | :-------: | :----
- &#x0976;  | *U+0976* |      |        |           | Kashmiri eu; ü; Perso-Arabic (&#x0625;);
- &#x0977;  | *U+0977* |      |        |           | Kashmiri uue; ǖ; Perso-Arabic (&#x0673;);
- &#x0973;  | *U+0973* |      |        |           | Kashmiri oe; ö; Perso-Arabic (&#x0623;);
- &#x0974;  | *U+0974* |      |        |           | Kashmiri ooe; ȫ; Perso-Arabic (&#x0672;);
- &#x0975;  | *U+0975* |      |        |           | Kashmiri aw;
+ &#x0976;  | *U+0976* |      |        |           | Kashmiri eu  ; ü ; Perso-Arabic (&#x0625;);
+ &#x0977;  | *U+0977* |      |        |           | Kashmiri uue ; ǖ ; Perso-Arabic (&#x0673;);
+ &#x0973;  | *U+0973* |      |        |           | Kashmiri oe  ; ö ; Perso-Arabic (&#x0623;);
+ &#x0974;  | *U+0974* |      |        |           | Kashmiri ooe ; ȫ ; Perso-Arabic (&#x0672;);
+ &#x0975;  | *U+0975* |      |        |           | Kashmiri aw  ;
 
 ### Symbols
 
