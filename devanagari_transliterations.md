@@ -489,6 +489,8 @@ Based on https://en.wikipedia.org/wiki/ISO_15919
 
 ## Fonts
 
+**NOTE: Does not render on Github's Markdown.**
+
 ### Devanagari
 
    Computer Default         |                                 Siddhanta                                  |                                   Mangal                                |                                   Arial Unicode MS                                |                                     Sanskrit 2003                              |                                  Chandas                                 |                                   Uttara                                |                                 Adobe Devanagari                                  |
