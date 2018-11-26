@@ -200,11 +200,11 @@ Devanāgarī |   Code   | IAST | ITRANS | ISO 15919 | Notes
  &#x097E;  | *U+097E* |      |        |           | Sindhi ddda (&#x068F;)
  &#x097F;  | *U+097F* |      |        |           | Sindhi bba  (&#x067B;)
 
-### Chandra Characters
+### Candra Characters
 
 Devanāgarī |   Code   |   IAST   | ITRANS | ISO 15919 | Notes
 :--------: | :------: | :------: | :----: | :-------: | :----
- &#x0945;  | *U+0945* | &#x0945; |   .c   |           |
+ &#x0945;  | *U+0945* |          |   .c   |           |
  &#x0972;  | *U+0972* |          |        |           |
  &#x090D;  | *U+090D* |          |        |  &#x00EA; |
  &#x0911;  | *U+0911* |          |        |  &#x00F4; |
