@@ -456,33 +456,33 @@ Based on https://en.wikipedia.org/wiki/ISO_15919
 
 ### Combining Characters
 
-  * `<macron above>` (U+0304)
-    * N&#x0304; [N + `<macron above>`]
-    * n&#x0304; [n + `<macron above>`]
+* `<macron above>` (U+0304)
+  * N&#x0304; [N + `<macron above>`]
+  * n&#x0304; [n + `<macron above>`]
 
-  * `<ring below>` (U+0325)
-    * R&#x0325; [R + `<ring below>`]
-    * r&#x0325; [r + `<ring below>`]
-    * L&#x0325; [L + `<ring below>`]
-    * l&#x0325; [l + `<ring below>`]
-    * M&#x0325; [M + `<ring below>`]
-    * m&#x0325; [m + `<ring below>`]
+* `<ring below>` (U+0325)
+  * R&#x0325; [R + `<ring below>`]
+  * r&#x0325; [r + `<ring below>`]
+  * L&#x0325; [L + `<ring below>`]
+  * l&#x0325; [l + `<ring below>`]
+  * M&#x0325; [M + `<ring below>`]
+  * m&#x0325; [m + `<ring below>`]
 
-  * `<macron above>` (U+0304) + `<ring below>` (U+0325)
-    * R&#x0304;&#x0325; [R + `<macron above>` + `<ring below>`]
-    * r&#x0304;&#x0325; [r + `<macron above>` + `<ring below>`]
-    * L&#x0304;&#x0325; [L + `<macron above>` + `<ring below>`]
-    * l&#x0304;&#x0325; [l + `<macron above>` + `<ring below>`]
+* `<macron above>` (U+0304) + `<ring below>` (U+0325)
+  * R&#x0304;&#x0325; [R + `<macron above>` + `<ring below>`]
+  * r&#x0304;&#x0325; [r + `<macron above>` + `<ring below>`]
+  * L&#x0304;&#x0325; [L + `<macron above>` + `<ring below>`]
+  * l&#x0304;&#x0325; [l + `<macron above>` + `<ring below>`]
 
-  * `<ring below>` (U+0325) + `<macron above>` (U+0304)
-    * R&#x0325;&#x0304; [R + `<ring below>` + `<macron above>`]
-    * r&#x0325;&#x0304; [r + `<ring below>` + `<macron above>`]
-    * L&#x0325;&#x0304; [L + `<ring below>` + `<macron above>`]
-    * l&#x0325;&#x0304; [l + `<ring below>` + `<macron above>`]
+* `<ring below>` (U+0325) + `<macron above>` (U+0304)
+  * R&#x0325;&#x0304; [R + `<ring below>` + `<macron above>`]
+  * r&#x0325;&#x0304; [r + `<ring below>` + `<macron above>`]
+  * L&#x0325;&#x0304; [L + `<ring below>` + `<macron above>`]
+  * l&#x0325;&#x0304; [l + `<ring below>` + `<macron above>`]
 
-  * `<chandrabindu>` (U+0310)
-    * M&#x0310; [M + `<chandrabindu>`]
-    * m&#x0310; [m + `<chandrabindu>`]
+* `<chandrabindu>` (U+0310)
+  * M&#x0310; [M + `<chandrabindu>`]
+  * m&#x0310; [m + `<chandrabindu>`]
 
-  * `<macron below>` (U+0331)
-    * H&#x0331; [H + `<macron below>`]
+* `<macron below>` (U+0331)
+  * H&#x0331; [H + `<macron below>`]
